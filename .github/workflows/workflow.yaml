@@ -1,6 +1,9 @@
 name: Manual CI Workflow - Unit Test
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master
 
 jobs:
   pr-workflow:
