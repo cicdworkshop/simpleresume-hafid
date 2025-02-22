@@ -1,4 +1,4 @@
-name: Workflow Example
+name: Manual CI Workflow - Unit Test
 on:
   workflow_dispatch:
 
