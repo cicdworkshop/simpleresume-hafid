@@ -1,4 +1,4 @@
-name: Deploy to AWS
+name: CD Workflow - Deploy to AWS
 on:
   workflow_dispatch:
 
