@@ -231,3 +231,78 @@ jeff:
       date: '2019-05-01'
     - name: Cisco Certified Internetwork Expert (CCIE)
       date: '2020-02-01'
+
+becca:
+  name: Rebecca Patrick
+  address: 789 Pine St, Metropolis, USA
+  phone: 555-555-5557
+  email: becca.t@example.com
+  description: |
+    Creative web developer with a strong background in HTML, CSS, and JavaScript. Adept in responsive design and UX principles.
+  linkedin_url: https://linkedin.com/becca
+  github_url: https://github.com/becca
+  experiences:
+    - company: Numbers Ltd
+      title: Data Analyst Intern
+      start_date: '2012-05-01'
+      end_date: '2012-09-01'
+      description: |
+        Analyzed sales data to provide actionable insights.
+    - company: Figures Inc
+      title: Junior Data Analyst
+      start_date: '2013-05-01'
+      end_date: '2014-12-31'
+      description: |
+        Developed and maintained reports and dashboards to track business metrics.
+    - company: Cognition Corp
+      title: Data Analyst
+      start_date: '2015-01-01'
+      end_date: '2016-10-30'
+      description: |
+        Used statistical techniques to develop insights from complex data sets.
+    - company: DeepThought Analytics
+      title: Senior Data Analyst
+      start_date: '2016-11-01'
+      end_date: '2018-05-01'
+      description: |
+        Led a team in interpreting data and analyzing results using statistical techniques.
+    - company: Mining Minds
+      title: Machine Learning Engineer
+      start_date: '2018-06-01'
+      end_date: '2020-05-01'
+      description: |
+        Developed machine learning algorithms to build scalable models.
+    - company: Visionary 
+      title: AI Engineer
+      start_date: '2020-06-01'
+      end_date: '2022-01-01'
+      description: |
+        Designed and developed AI models to solve complex problems.
+    - company: Pioneers in Prediction
+      title: Lead Data Scientist
+      start_date: '2022-02-01'
+      end_date: 'Present'
+      description: |
+        Leading a team of data scientists in predictive modeling and machine learning.
+  education:
+    - school: Web University
+      degree: Bachelor of Science in Web Development 
+      start_date: '2010-09-01'
+      end_date: '2014-06-01'
+  certifications:
+    - name: CompTIA Security+
+      date: '2012-04-01'
+    - name: Microsoft Certified Azure Solutions Architect Expert
+      date: '2013-10-01'
+    - name: Google Certified Professional Cloud Architect
+      date: '2015-03-01'
+    - name: Puppet Certified Professional
+      date: '2016-06-01'
+    - name: Salesforce Certified Technical Architect
+      date: '2017-09-01'
+    - name: Apple Certified Mac Technician (ACMT)
+      date: '2018-11-01'
+    - name: ISTQB Certified Tester
+      date: '2019-05-01'
+    - name: Cisco Certified Internetwork Expert (CCIE)
+      date: '2020-02-01'
